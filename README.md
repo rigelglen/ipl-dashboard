@@ -23,5 +23,3 @@ IPL Dashboard developed during 'Python Web Development with Flask' workshop held
 Rigel Glen – [@rigelglen](https://twitter.com/rigelglen) – rigelglen@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
-
-[https://github.com/roydenrego/GradientButtonSwift](https://github.com/roydenrego/)
